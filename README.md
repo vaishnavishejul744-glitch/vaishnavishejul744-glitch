@@ -1,12 +1,13 @@
+
 <!-- ========================================================= -->
 <!--                 VAISHNAVI SHEJUL | GITHUB                  -->
 <!-- ========================================================= -->
 
-<!-- 🌸 RESPONSIVE LIGHT / DARK BANNER -->
+<!-- 💜 RESPONSIVE LIGHT / DARK BANNER -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,100:FF69B4&height=220&section=header&text=Vaishnavi%20Shejul&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20DevOps%20Engineer&descAlignY=58&descSize=20">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,100:EF93C4&height=220&section=header&text=Vaishnavi%20Shejul&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20DevOps%20Engineer&descAlignY=58&descSize=20" width="100%" alt="Vaishnavi Shejul banner"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:B388FF,100:6A0DAD&height=220&section=header&text=Vaishnavi%20Shejul&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20DevOps%20Engineer&descAlignY=58&descSize=20">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D1B3FF,100:8A2BE2&height=220&section=header&text=Vaishnavi%20Shejul&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20DevOps%20Engineer&descAlignY=58&descSize=20" width="100%" alt="Vaishnavi Shejul banner"/>
   </picture>
 </div>
 
@@ -19,19 +20,19 @@
 
 <!-- ⌨️ ANIMATED TYPING -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Learning+DevOps+%26+Cloud+Technologies;Building+with+AWS+%7C+Docker+%7C+Kubernetes;Automating+Infrastructure+with+Terraform;Always+Learning+%2C+Always+Growing+%F0%9F%8C%B8" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=B388FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Learning+DevOps+%26+Cloud+Technologies;Building+with+AWS+%7C+Docker+%7C+Kubernetes;Automating+Infrastructure+with+Terraform;Always+Learning+%2C+Always+Growing+%F0%9F%92%9C" alt="Typing SVG"/>
 </div>
 
 <br/>
 
-<!-- 🌸 PROFILE BADGES -->
+<!-- 💜 PROFILE BADGES -->
 <div align="center">
 
-  <img src="https://img.shields.io/github/followers/vaishnavishejul744-glitch?label=Followers&style=for-the-badge&color=EF93C4&labelColor=1f1f1f" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/followers/vaishnavishejul744-glitch?label=Followers&style=for-the-badge&color=B388FF&labelColor=1f1f1f" alt="GitHub Followers"/>
 
-  <img src="https://img.shields.io/github/stars/vaishnavishejul744-glitch?label=Total%20Stars&style=for-the-badge&color=F8BBD0&labelColor=1f1f1f" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/stars/vaishnavishejul744-glitch?label=Total%20Stars&style=for-the-badge&color=D1B3FF&labelColor=1f1f1f" alt="GitHub Stars"/>
 
-  <img src="https://komarev.com/ghpvc/?username=vaishnavishejul744-glitch&label=Profile%20Views&color=FF69B4&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=vaishnavishejul744-glitch&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -40,13 +41,13 @@
 ---
 
 <!-- 🌷 ABOUT ME -->
-<h2 align="center">🌸 About Me</h2>
+<h2 align="center">💜 About Me</h2>
 
 <table align="center" border="0">
 <tr>
 <td width="65%" valign="middle">
 
-### Hi, I'm Vaishnavi! 💗
+### Hi, I'm Vaishnavi! 💜
 
 - 🎓 B.Sc. IT Graduate from SNDT Women's University.
 - 💻 Aspiring DevOps Engineer.
@@ -110,9 +111,9 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vaishnavishejul744-glitch&show_icons=true&theme=omni&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&bg_color=0D1117" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vaishnavishejul744-glitch&show_icons=true&theme=transparent&hide_border=true&title_color=B388FF&icon_color=8A2BE2&text_color=D1B3FF&bg_color=0D1117" alt="GitHub Stats"/>
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavishejul744-glitch&layout=compact&theme=omni&hide_border=true&title_color=EF93C4&text_color=F8BBD0&bg_color=0D1117" alt="Top Languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavishejul744-glitch&layout=compact&theme=transparent&hide_border=true&title_color=B388FF&text_color=D1B3FF&bg_color=0D1117" alt="Top Languages"/>
 </p>
 
 ---
@@ -121,7 +122,7 @@
 <h2 align="center">🔥 GitHub Contribution Streak</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vaishnavishejul744-glitch&theme=omni&hide_border=true&background=0D1117&ring=FF69B4&fire=EF93C4&currStreakLabel=F8BBD0&sideLabels=EF93C4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=F8BBD0" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=vaishnavishejul744-glitch&theme=transparent&hide_border=true&background=0D1117&ring=8A2BE2&fire=B388FF&currStreakLabel=D1B3FF&sideLabels=B388FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=D1B3FF" alt="GitHub Streak Stats"/>
 </p>
 
 ---
@@ -130,7 +131,7 @@
 <h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavishejul744-glitch&bg_color=0D1117&color=F8BBD0&line=FF69B4&point=EF93C4&area=true&hide_border=true&custom_title=Vaishnavi's%20Contribution%20Graph" width="100%" alt="Contribution Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavishejul744-glitch&bg_color=0D1117&color=D1B3FF&line=8A2BE2&point=B388FF&area=true&hide_border=true&custom_title=Vaishnavi's%20Contribution%20Graph" width="100%" alt="Contribution Activity Graph"/>
 </p>
 
 ---
@@ -170,7 +171,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-pink.svg?palette=github-dark&color_snake=%23FF69B4
+            dist/github-contribution-grid-snake-purple.svg?palette=github-dark&color_snake=%238A2BE2
 
       - name: Push Snake to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
@@ -195,14 +196,14 @@ After adding the workflow:
 
 <div align="center">
 
-<a href="https://github.com/vaishnavishejul744-glitch">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaishnavishejul744-glitch&repo=EasyCRUD-Updated&theme=omni&hide_border=true&title_color=EF93C4&bg_color=0D1117" alt="EasyCRUD Project"/>
+<a href="https://github.com/vaishnavishejul744-glitch/EasyCRUD-Updated">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaishnavishejul744-glitch&repo=EasyCRUD-Updated&theme=transparent&hide_border=true&title_color=B388FF&bg_color=0D1117" alt="EasyCRUD Project"/>
 </a>
 
 </div>
 
 <p align="center">
-  More projects coming soon! 💗
+  More projects coming soon! 💜
 </p>
 
 ---
@@ -217,28 +218,28 @@ After adding the workflow:
 <p align="center">
 
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-B388FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:vaishnavishejul744@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Gmail-Contact-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://github.com/vaishnavishejul744-glitch">
-  <img src="https://img.shields.io/badge/GitHub-Follow-F8BBD0?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow-D1B3FF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
 </a>
 
 </p>
 
 ---
 
-<!-- 🌸 FOOTER -->
+<!-- 💜 FOOTER -->
 <div align="center">
 
-### 💗 Thanks for Visiting My Profile!
+### 💜 Thanks for Visiting My Profile!
 
 **"Small Steps Every Day Lead to Big Achievements."**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:EF93C4&height=120&section=footer&animation=fadeIn" width="100%" alt="Pink waving footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:B388FF&height=120&section=footer&animation=fadeIn" width="100%" alt="Purple waving footer"/>
 
 </div>
